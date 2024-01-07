@@ -22,6 +22,6 @@ Welcome to my GitHub profile! I'm passionate about software engineering and love
 I'm continuously expanding my knowledge and skill set. Currently, I'm exploring containerization and orchestration with Docker and Kubernetes, as well as diving deeper into serverless architecture.
 
 #### 📫 Let's Connect
-I'm always open to new opportunities, collaborations, and interesting conversations. You can reach me via [email](mailto:mtareq361@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abu-tareq-772931240/).
+I'm always open to new opportunities, collaborations, and interesting conversations. You can reach me via [email](mailto:abutareq.email@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/abu-tareq-772931240/).
 
 Thanks for visiting, and happy coding! 🚀
